@@ -1,4 +1,13 @@
- ![logo](https://github.com/jagdishpatil19/jagdishpatil19/blob/main/jagdish%20patil.png) 
+
+ <img align="right" width="1000" src="https://github.com/jagdishpatil19/jagdishpatil19/blob/main/jagdish%20patil.png" alt="Coding" /> 
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
  <h1 align="center">Hi 👋, I'm Jagdish Patil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
