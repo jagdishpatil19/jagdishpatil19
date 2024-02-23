@@ -1,3 +1,4 @@
+ ![logo](https://github.com/jagdishpatil19/jagdishpatil19/blob/main/jagdish%20patil.png) 
  <h1 align="center">Hi 👋, I'm Jagdish Patil</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
